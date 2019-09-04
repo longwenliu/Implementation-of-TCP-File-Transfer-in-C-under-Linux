@@ -8,7 +8,7 @@ Linux下C实现TCP文件传输
 
     cmd 通道（TCP）
     
-	list
+	list 显示当前目录所有文件名
   
 	cd 切换目录
   
